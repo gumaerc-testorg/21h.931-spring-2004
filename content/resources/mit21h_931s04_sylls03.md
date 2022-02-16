@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains information about how to design to introduce students
   to fundamental issues and debates in the writing of history.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21h-931-seminar-in-historical-methods-spring-2004/f72190530a3f1c540603fd721c506caf_MIT21H_931s04_sylls03.pdf
+file: /media/courses/21h-931-seminar-in-historical-methods-spring-2004/f72190530a3f1c540603fd721c506caf_MIT21H_931s04_sylls03.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Syllabus
+parent_type: CourseSection
 resourcetype: Document
 title: MIT21H_931s04_sylls03.pdf
 uid: f7219053-0a3f-1c54-0603-fd721c506caf
