@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7b933772-9dc2-bdb9-492a-550e01885df7
 resourcetype: Document
 title: pov_tru_ab_hist.pdf
 uid: ea5212e6-dccd-6bc6-edd2-c98905b405ff

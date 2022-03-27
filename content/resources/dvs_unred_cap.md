@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7b933772-9dc2-bdb9-492a-550e01885df7
 resourcetype: Document
 title: dvs_unred_cap.pdf
 uid: 508d2762-05e4-6e09-251e-84684aa927a2

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7b933772-9dc2-bdb9-492a-550e01885df7
 resourcetype: Document
 title: pov_mediter.pdf
 uid: 4b5c2d92-4d23-62b5-ab85-281b4933f5da

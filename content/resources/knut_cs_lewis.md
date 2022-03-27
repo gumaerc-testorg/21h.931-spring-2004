@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7b933772-9dc2-bdb9-492a-550e01885df7
 resourcetype: Document
 title: knut_cs_lewis.pdf
 uid: e65985df-a543-5073-342e-5b924ab507d5

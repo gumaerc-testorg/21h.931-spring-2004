@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7b933772-9dc2-bdb9-492a-550e01885df7
 resourcetype: Document
 title: fah_1_qu_hum.pdf
 uid: 0529280e-8479-ebaf-dc9c-15516030f1ce

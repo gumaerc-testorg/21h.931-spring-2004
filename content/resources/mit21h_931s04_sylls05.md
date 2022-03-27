@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 914a9bb9-510c-a143-836f-3e7d58a57c59
 resourcetype: Document
 title: MIT21H_931s04_sylls05.pdf
 uid: 1bd5dcc3-3804-1f73-1047-b2d658a0bce1

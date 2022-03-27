@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7b933772-9dc2-bdb9-492a-550e01885df7
 resourcetype: Document
 title: sto_discar_ima.pdf
 uid: be7caefb-ab1d-9d5f-6abb-a0b97e5de8a7

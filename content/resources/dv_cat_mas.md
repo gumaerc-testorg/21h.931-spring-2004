@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7b933772-9dc2-bdb9-492a-550e01885df7
 resourcetype: Document
 title: dv_cat_mas.pdf
 uid: 2c9aa9a2-8b5a-f29c-6883-ecb4dd620f0d
