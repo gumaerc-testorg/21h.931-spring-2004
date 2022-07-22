@@ -5,6 +5,7 @@ file: /courses/21h-931-seminar-in-historical-methods-spring-2004/d494dad4f3d29f3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

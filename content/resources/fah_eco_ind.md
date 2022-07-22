@@ -5,6 +5,7 @@ file: /courses/21h-931-seminar-in-historical-methods-spring-2004/a985abfe395719f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: fah_eco_ind.pdf
 uid: a985abfe-3957-19fc-ed85-b1a292362717
 ---
 A sample of a student response to a reading assignment.
-

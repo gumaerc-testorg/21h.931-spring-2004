@@ -5,6 +5,7 @@ file: /courses/21h-931-seminar-in-historical-methods-spring-2004/be7caefbab1d9d5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sto_discar_ima.pdf
 uid: be7caefb-ab1d-9d5f-6abb-a0b97e5de8a7
 ---
 A sample of a student response to a reading assignment.
-

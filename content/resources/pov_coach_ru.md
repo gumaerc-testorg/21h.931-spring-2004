@@ -5,6 +5,7 @@ file: /courses/21h-931-seminar-in-historical-methods-spring-2004/c2c9237823382c9
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pov_coach_ru.pdf
 uid: c2c92378-2338-2c9f-3cf9-200e437102a6
 ---
 A sample of a student response to a reading assignment.
-

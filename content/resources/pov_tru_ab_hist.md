@@ -5,6 +5,7 @@ file: /courses/21h-931-seminar-in-historical-methods-spring-2004/ea5212e6dccd6bc
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pov_tru_ab_hist.pdf
 uid: ea5212e6-dccd-6bc6-edd2-c98905b405ff
 ---
 A sample of a student response to a reading assignment.
-

@@ -5,6 +5,7 @@ file: /courses/21h-931-seminar-in-historical-methods-spring-2004/4b5c2d924d2362b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pov_mediter.pdf
 uid: 4b5c2d92-4d23-62b5-ab85-281b4933f5da
 ---
 A sample of a student response to a reading assignment.
-
