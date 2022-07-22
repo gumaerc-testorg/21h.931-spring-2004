@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 914a9bb9-510c-a143-836f-3e7d58a57c59
 ---
@@ -14,17 +17,17 @@ Syllabus Archive
 
 The following syllabi come from a variety of different terms. They illustrate the evolution of this course over time, and are intended to provide alternate views into the instruction of this course.
 
-> Spring 2008, David Ciarlo ([PDF]({{< baseurl >}}/resources/mit21h_931s04_sylls08))
+> Spring 2008, David Ciarlo ({{% resource_link a50f7435-4f07-fcc4-0bd5-30cb9092e560 "PDF" %}})
 > 
-> Spring 2007, David Ciarlo ([PDF]({{< baseurl >}}/resources/mit21h_931s04_sylls07))
+> Spring 2007, David Ciarlo ({{% resource_link 032fd1dc-686e-c376-d4bb-d4649e23169b "PDF" %}})
 > 
-> Spring 2005, David Ciarlo ([PDF]({{< baseurl >}}/resources/mit21h_931s04_sylls05))
+> Spring 2005, David Ciarlo ({{% resource_link 1bd5dcc3-3804-1f73-1047-b2d658a0bce1 "PDF" %}})
 > 
-> Spring 2004, Anne McCants ([PDF]({{< baseurl >}}/resources/mit21h_931s04_sylls04))
+> Spring 2004, Anne McCants ({{% resource_link fddeb505-f99d-aff5-a66f-eeeb7e87039c "PDF" %}})
 > 
-> Spring 2003, Jeffrey Ravel ([PDF]({{< baseurl >}}/resources/mit21h_931s04_sylls03))
+> Spring 2003, Jeffrey Ravel ({{% resource_link f7219053-0a3f-1c54-0603-fd721c506caf "PDF" %}})
 > 
-> Spring 2002, Elizabeth Wood ([PDF]({{< baseurl >}}/resources/mit21h_931s04_sylls02))
+> Spring 2002, Elizabeth Wood ({{% resource_link 66d88cb9-707b-b7c8-4b65-7951fd8da5b6 "PDF" %}})
 
 Subject Description
 -------------------
