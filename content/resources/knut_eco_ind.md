@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21h-931-seminar-in-historical-methods-spring-2004/d494dad4f3d29f3856af5cfafeb615fd_knut_eco_ind.pdf
+file_size: 53523
 file_type: application/pdf
 learning_resource_types:
 - Assignments
