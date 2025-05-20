@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A sample of a student response to a reading assignment.
-file: /ol-ocw-studio-app/courses/21h-931-seminar-in-historical-methods-spring-2004/a985abfe395719fced85b1a292362717_fah_eco_ind.pdf
+file: /courses/21h-931-seminar-in-historical-methods-spring-2004/a985abfe395719fced85b1a292362717_fah_eco_ind.pdf
 file_size: 62907
 file_type: application/pdf
 learning_resource_types:
