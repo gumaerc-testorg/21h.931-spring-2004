@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about how to design to introduce students
   to fundamental issues and debates in the writing of history.
-file: /courses/21h-931-seminar-in-historical-methods-spring-2004/f72190530a3f1c540603fd721c506caf_MIT21H_931s04_sylls03.pdf
+file: /ol-ocw-studio-app/courses/21h-931-seminar-in-historical-methods-spring-2004/f72190530a3f1c540603fd721c506caf_MIT21H_931s04_sylls03.pdf
 file_size: 48237
 file_type: application/pdf
 learning_resource_types: []
